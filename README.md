@@ -22,7 +22,7 @@ An interactive Retail Sales Analysis Dashboard built using Microsoft Power BI to
 
 * ## 📸 Dashboard Preview
 
-![Retail Sales Dashboard](dashboard_screenshot.png)
+![Retail Sales Dashboard](dashboard_screenshot.png.png)
 
 ## 📈 Dashboard Features
 
