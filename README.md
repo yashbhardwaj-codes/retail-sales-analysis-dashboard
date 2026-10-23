@@ -20,6 +20,10 @@ An interactive Retail Sales Analysis Dashboard built using Microsoft Power BI to
 * DAX
 * Data Visualization
 
+* ## 📸 Dashboard Preview
+
+![Retail Sales Dashboard](dashboard_screenshot.png)
+
 ## 📈 Dashboard Features
 
 * **Total Sales:** Overall revenue generated.
